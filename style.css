@@ -35,7 +35,8 @@
 
 
 .head_left{
-    text-aline:center;
+    
+    text-align:center;
     background-color: white;
     color: black;
     width:150px;
